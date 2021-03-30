@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>News</title>
+<link>http://localhost:8000/</link>
+<description>Grow with Technology</description>
+
+<item>
+<title>Currently Reading</title>
+<link>http://localhost:8000/news/currently-reading/</link>
+<description>
+<![CDATA[
+<p>
+Following is a list of books I am reading currently. A Walk in the Woods: Rediscovering America on the Appalachian Trail The Appalachian Trail is&nbsp;<a href="http://localhost:8000/news/currently-reading/">...</a>
+</p>
+<p><a href="http://localhost:8000/news/currently-reading/">Read More</a></p>
+]]>
+</description>
+<pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
