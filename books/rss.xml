@@ -7,14 +7,27 @@
 <description>Grow with Technology</description>
 
 <item>
-<title>Currently Reading</title>
-<link>http://localhost:8000/news/currently-reading/</link>
+<title>This is Water</title>
+<link>http://localhost:8000/news/this-is-water/</link>
 <description>
 <![CDATA[
 <p>
-Following is a list of books I am reading currently. A Walk in the Woods: Rediscovering America on the Appalachian Trail The Appalachian Trail is&nbsp;<a href="http://localhost:8000/news/currently-reading/">...</a>
+This is a commencement speech delivered by David Foster Wallace to the graduates of a liberal arts course. The essence of this talk is the&nbsp;<a href="http://localhost:8000/news/this-is-water/">...</a>
 </p>
-<p><a href="http://localhost:8000/news/currently-reading/">Read More</a></p>
+<p><a href="http://localhost:8000/news/this-is-water/">Read More</a></p>
+]]>
+</description>
+<pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>A Walk in the Woods</title>
+<link>http://localhost:8000/news/a-walk-in-the-woods/</link>
+<description>
+<![CDATA[
+<p>
+The Appalachian Trail is one of the longest hiking trails in the world, extending about 3,500 km across 14 states in the United States. This&nbsp;<a href="http://localhost:8000/news/a-walk-in-the-woods/">...</a>
+</p>
+<p><a href="http://localhost:8000/news/a-walk-in-the-woods/">Read More</a></p>
 ]]>
 </description>
 <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
