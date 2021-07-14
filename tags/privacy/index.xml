@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Jishnu Nair</title>
+    <link>https://jishnunair.net/tags/privacy/</link>
+    <description>Recent content in privacy on Jishnu Nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2021 14:57:20 +0530</lastBuildDate><atom:link href="https://jishnunair.net/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Privacy?</title>
+      <link>https://jishnunair.net/posts/why-privacy/</link>
+      <pubDate>Wed, 14 Jul 2021 14:57:20 +0530</pubDate>
+      
+      <guid>https://jishnunair.net/posts/why-privacy/</guid>
+      
+        <description>The Beginning Over the past two years, I have been on a quest to reclaim my digital privacy (as much as possible).
+So how did this journey start? I think it all started with Linux, or GNU/Linux. My search for what GNU is led me to beginnings of the Free Software movement, Richard Stallman, and the four essential freedoms. All this led me to the question, &amp;ldquo;How much control do I have over my digital life?</description>
+      
+    </item>
+    
+  </channel>
+</rss>
