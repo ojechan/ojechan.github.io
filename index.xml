@@ -6,7 +6,19 @@
     <description>Recent content on Jishnu Nair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 14:57:20 +0530</lastBuildDate><atom:link href="https://jishnunair.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 19:16:31 +0530</lastBuildDate><atom:link href="https://jishnunair.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sending Encrypted Mail using Thunderbird</title>
+      <link>https://jishnunair.net/posts/sending-encrypted-mail/</link>
+      <pubDate>Fri, 16 Jul 2021 19:16:31 +0530</pubDate>
+      
+      <guid>https://jishnunair.net/posts/sending-encrypted-mail/</guid>
+      
+        <description>How to send encrypted mail to a known recipient Let&amp;rsquo;s first address the elephant in the room: Gmail.
+Almost everybody you know uses Gmail as their primary mail address. Gmail offers various &amp;ldquo;services&amp;rdquo; like smart-reply, which can be rephrased to say that Gmail reads your damn email. It has processed billions of emails to come up with a model which outputs near-perfect replies. Impressive tech, but as always, convenience at the cost of privacy.</description>
+      
+    </item>
+    
     <item>
       <title>Why Privacy?</title>
       <link>https://jishnunair.net/posts/why-privacy/</link>
