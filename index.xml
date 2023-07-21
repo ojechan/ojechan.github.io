@@ -1,96 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jishnu Nair</title>
-    <link>https://jishnunair.net/</link>
-    <description>Recent content on Jishnu Nair</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:22:51 +0530</lastBuildDate><atom:link href="https://jishnunair.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Protocol for (my) death</title>
-      <link>https://jishnunair.net/posts/protocol-for-death/</link>
-      <pubDate>Sun, 21 Nov 2021 00:22:51 +0530</pubDate>
-      
-      <guid>https://jishnunair.net/posts/protocol-for-death/</guid>
-      
-        <description>This is a letter to the people who hold me dear, if faced with my death. I am writing this in November, 2021. I don&amp;rsquo;t know when I will die. Hopefully, it may not be too soon. What if I do end up dying soon? That is what I am trying to address here. A protocol for my own death.
-tldr: I am dead. Move on as fast as you can.</description>
-      
-    </item>
-    
-    <item>
-      <title>Sending Encrypted Mail using Thunderbird</title>
-      <link>https://jishnunair.net/posts/sending-encrypted-mail/</link>
-      <pubDate>Fri, 16 Jul 2021 19:16:31 +0530</pubDate>
-      
-      <guid>https://jishnunair.net/posts/sending-encrypted-mail/</guid>
-      
-        <description>How to send encrypted mail to a known recipient Let&amp;rsquo;s first address the elephant in the room: Gmail.
-Almost everybody you know uses Gmail as their primary mail address. Gmail offers various &amp;ldquo;services&amp;rdquo; like smart-reply, which can be rephrased to say that Gmail reads your damn email. It has processed billions of emails to come up with a model which outputs near-perfect replies. Impressive tech, but as always, convenience at the cost of privacy.</description>
-      
-    </item>
-    
-    <item>
-      <title>Why Privacy?</title>
-      <link>https://jishnunair.net/posts/why-privacy/</link>
-      <pubDate>Wed, 14 Jul 2021 14:57:20 +0530</pubDate>
-      
-      <guid>https://jishnunair.net/posts/why-privacy/</guid>
-      
-        <description>The Beginning Over the past two years, I have been on a quest to reclaim my digital privacy (as much as possible).
-So how did this journey start? I think it all started with Linux, or GNU/Linux. My search for what GNU is led me to beginnings of the Free Software movement, Richard Stallman, and the four essential freedoms. All this led me to the question, &amp;ldquo;How much control do I have over my digital life?</description>
-      
-    </item>
-    
-    <item>
-      <title>This Is Water</title>
-      <link>https://jishnunair.net/posts/this-is-water/</link>
-      <pubDate>Mon, 12 Jul 2021 22:05:38 +0530</pubDate>
-      
-      <guid>https://jishnunair.net/posts/this-is-water/</guid>
-      
-        <description>This is a commencement speech delivered by David Foster Wallace to the graduates of a liberal arts course. The essence of this talk is the value of education, which is about &amp;ldquo;simple awareness – awareness of what is so real and essential, so hidden in plain sight all around us, that we have to keep reminding ourselves over and over: This is water.&amp;quot;
-The phrase &amp;ldquo;This is water&amp;rdquo; refers to the story he mentions at the beginning of the speech, which I quote here:</description>
-      
-    </item>
-    
-    <item>
-      <title>A Walk in the Woods</title>
-      <link>https://jishnunair.net/posts/a-walk-in-the-woods/</link>
-      <pubDate>Mon, 12 Jul 2021 20:02:56 +0530</pubDate>
-      
-      <guid>https://jishnunair.net/posts/a-walk-in-the-woods/</guid>
-      
-        <description>The Appalachian Trail is one of the longest hiking trails in the world, extending about 3,500 km across 14 states in the United States. This book follows Bill Bryson&amp;rsquo;s experiences as he hikes the trail with his friend. I have currently read the first part of this book, with Bill and his friend realizing that they will never be able to hike the entire trail, but still deciding to hike as much as they can by skipping certain parts of the stretch.</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jishnunair.net/about/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jishnunair.net/about/</guid>
-      
-        <description>Who am I? I don&amp;rsquo;t really know. Nobody really knows who they are.
-Society in general chooses profession or academic position to define people. &amp;ldquo;I am X, and I do this. I study this. That is the entirety of who I am.&amp;rdquo;. I&amp;rsquo;m just gonna go with &amp;ldquo;I do not know. But you&amp;rsquo;re welcome to find out!&amp;rdquo;
-What do I do? Again I do not want to start with my profession.</description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://jishnunair.net/contact/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jishnunair.net/contact/</guid>
-      
-        <description>I can be contacted on email.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jishnu Nair</title><link>https://jishnunair.net/</link><description>Recent content on Jishnu Nair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Jul 2023 16:30:45 +0530</lastBuildDate><atom:link href="https://jishnunair.net/index.xml" rel="self" type="application/rss+xml"/><item><title>I'm not a fan of airports, but you may probably like it (and that's fine)</title><link>https://jishnunair.net/posts/airports/</link><pubDate>Tue, 18 Jul 2023 16:30:45 +0530</pubDate><guid>https://jishnunair.net/posts/airports/</guid><description>My friend told me once that he really loves the atmosphere of airports. Especially those big airports with lots of empty seats and a multitude of shops around. I&amp;rsquo;m sitting in one of the airports he was talking about, and I don&amp;rsquo;t share his admiration.
+Who likes airports? Who does not? To start with, at least for Indian airports, only the international terminals are going to fit this category. That too, probably the airports in major cities.</description></item><item><title>Protocol for (my) death</title><link>https://jishnunair.net/posts/protocol-for-death/</link><pubDate>Sun, 21 Nov 2021 00:22:51 +0530</pubDate><guid>https://jishnunair.net/posts/protocol-for-death/</guid><description>This is a letter to the people who hold me dear, if faced with my death. I am writing this in November, 2021. I don&amp;rsquo;t know when I will die. Hopefully, it may not be too soon. What if I do end up dying soon? That is what I am trying to address here. A protocol for my own death.
+tldr: I am dead. Move on as fast as you can.</description></item><item><title>Sending Encrypted Mail using Thunderbird</title><link>https://jishnunair.net/posts/sending-encrypted-mail/</link><pubDate>Fri, 16 Jul 2021 19:16:31 +0530</pubDate><guid>https://jishnunair.net/posts/sending-encrypted-mail/</guid><description>How to send encrypted mail to a known recipient Let&amp;rsquo;s first address the elephant in the room: Gmail.
+Almost everybody you know uses Gmail as their primary mail address. Gmail offers various &amp;ldquo;services&amp;rdquo; like smart-reply, which can be rephrased to say that Gmail reads your damn email. It has processed billions of emails to come up with a model which outputs near-perfect replies. Impressive tech, but as always, convenience at the cost of privacy.</description></item><item><title>Why Privacy?</title><link>https://jishnunair.net/posts/why-privacy/</link><pubDate>Wed, 14 Jul 2021 14:57:20 +0530</pubDate><guid>https://jishnunair.net/posts/why-privacy/</guid><description>The Beginning Over the past two years, I have been on a quest to reclaim my digital privacy (as much as possible).
+So how did this journey start? I think it all started with Linux, or GNU/Linux. My search for what GNU is led me to beginnings of the Free Software movement, Richard Stallman, and the four essential freedoms. All this led me to the question, &amp;ldquo;How much control do I have over my digital life?</description></item><item><title>This Is Water</title><link>https://jishnunair.net/posts/this-is-water/</link><pubDate>Mon, 12 Jul 2021 22:05:38 +0530</pubDate><guid>https://jishnunair.net/posts/this-is-water/</guid><description>This is a commencement speech delivered by David Foster Wallace to the graduates of a liberal arts course. The essence of this talk is the value of education, which is about &amp;ldquo;simple awareness – awareness of what is so real and essential, so hidden in plain sight all around us, that we have to keep reminding ourselves over and over: This is water.&amp;rdquo;
+The phrase &amp;ldquo;This is water&amp;rdquo; refers to the story he mentions at the beginning of the speech, which I quote here:</description></item><item><title>A Walk in the Woods</title><link>https://jishnunair.net/posts/a-walk-in-the-woods/</link><pubDate>Mon, 12 Jul 2021 20:02:56 +0530</pubDate><guid>https://jishnunair.net/posts/a-walk-in-the-woods/</guid><description>The Appalachian Trail is one of the longest hiking trails in the world, extending about 3,500 km across 14 states in the United States. This book follows Bill Bryson&amp;rsquo;s experiences as he hikes the trail with his friend. I have currently read the first part of this book, with Bill and his friend realizing that they will never be able to hike the entire trail, but still deciding to hike as much as they can by skipping certain parts of the stretch.</description></item><item><title>About</title><link>https://jishnunair.net/about/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><guid>https://jishnunair.net/about/</guid><description>Who am I? I don&amp;rsquo;t really know. Nobody really knows who they are.
+Here&amp;rsquo;s something I can say for sure. I enjoy long conversations, and I enjoy stories, especially the ones which change my way of thinking even by a little bit.
+What do I do? It really doesn&amp;rsquo;t matter what I do. I can say with confidence and humility that what I do does more than put food on the table.</description></item><item><title>Contact</title><link>https://jishnunair.net/contact/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><guid>https://jishnunair.net/contact/</guid><description>I can be contacted on email.
 If you&amp;rsquo;re interested in sending an encrypted mail, here&amp;rsquo;s my public key
-Key fingerprint: 9957 2807 8354 DDE9 EF14 294F 338F 3D4E FFAE BEDE</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+Key fingerprint: 9957 2807 8354 DDE9 EF14 294F 338F 3D4E FFAE BEDE</description></item></channel></rss>
